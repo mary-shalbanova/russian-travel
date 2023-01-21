@@ -9,4 +9,5 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   margin: auto;
+  max-width: 1280px;
 }
