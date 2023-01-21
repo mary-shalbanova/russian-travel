@@ -8,4 +8,4 @@ ___
 
 *При написании кода применяется методология БЭМ.
 Файловая структура оформлена по правилам Nested БЭМ.*
-### Ссылка на GitHub Pages:
+### Ссылка на GitHub Pages: https://mary-shalbanova.github.io/russian-travel/
