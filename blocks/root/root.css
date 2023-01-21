@@ -1,0 +1,12 @@
+.root {
+  background-color: #2a2c2f;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased; /*свойство не наследуется */
+  -moz-osx-font-smoothing: grayscale; /*свойство не наследуется */
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  margin: auto;
+}

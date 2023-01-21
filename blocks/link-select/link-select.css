@@ -1,0 +1,7 @@
+.link-select {
+  transition: opacity 0.3s;
+}
+
+.link-select:hover {
+  opacity: 0.8;
+}
