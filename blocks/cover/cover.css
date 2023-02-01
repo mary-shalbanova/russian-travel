@@ -3,13 +3,10 @@
   margin: auto;
   max-width: 1184px;
   max-height: 740px;
-  height: 62.5vw;
+  aspect-ratio: 8 / 5;
   background-size: cover;
   background-position: center;
   position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
 }
 
 .cover::before {
